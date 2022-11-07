@@ -1,0 +1,2 @@
+This is the second test to find out if I am on the right path
+This is another test to check if gitpod is working right
