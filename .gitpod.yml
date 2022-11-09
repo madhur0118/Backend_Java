@@ -1,1 +1,2 @@
-image: openjdk:20-ea-17-jdk
+image:
+  file: .gitpod.Dockerfile
