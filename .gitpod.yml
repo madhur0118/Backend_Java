@@ -1,1 +1,1 @@
-image: openjdk:slim-buster
+image: google/cloud-sdk:latest
